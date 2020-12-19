@@ -1,5 +1,5 @@
 html {
-	background:#f1f1f1 url(../body7.jpg) no-repeat center center fixed; 
+	background: url(../back.png) no-repeat center center fixed; 
 	min-height:100%;
 	-webkit-background-size: cover;
 	   -moz-background-size: cover;
